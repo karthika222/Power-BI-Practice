@@ -1,0 +1,4 @@
+YearMonth = FORMAT('Sheet1'[OrderDate], "YYYY-MM")
+
+
+Total Sales = SUM('Sheet1'[TotalSales])
